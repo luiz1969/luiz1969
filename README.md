@@ -1,8 +1,20 @@
-# Titulo maior
+# Olá, sou o Luiz Carlos de Paula 👨‍💻
 
-## Título menor
+Sou analista de sistemas formado pela PUC-PR.
+### 👀 Estou buscando uma vaga no momento 👀
 
-![AWS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+## ⚡ Habilidades
+- Desenvolvimento de aplicativos (Flutter / Dart)
+- Arquiteturas MVC
+- APis com PHP
+- Git e GitHub
+- Firebase, SQLite, Mysql e SQL
+- Testes unitários e de integração
+
+## 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiltondamasceno/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codansoficial) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com) 
 
 ## 🔧 Technologies & Tools
 
